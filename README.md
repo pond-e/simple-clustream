@@ -1,4 +1,4 @@
-CluStream[A Framework for Clustering Evolving Data Streams](https://www.vldb.org/conf/2003/papers/S04P02.pdf) の簡易的なjava実装です
+CluStream ([A Framework for Clustering Evolving Data Streams](https://www.vldb.org/conf/2003/papers/S04P02.pdf) )の簡易的なjava実装です
 
 Micro-clusterの初期化、要素の追加についてのみ実装を行い、スナップショットの作成の実装は行っていません
 
